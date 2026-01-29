@@ -1,0 +1,8 @@
+{
+  "name": "SocialFlow Pro",
+  "description": "A comprehensive social media management and cross-posting platform with AI-powered content generation, multi-platform scheduling, and deep API research insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
